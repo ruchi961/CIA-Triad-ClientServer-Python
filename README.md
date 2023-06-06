@@ -6,6 +6,8 @@ Contains the CIA traid implementation in Python Language.
 
 
 # Language:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50>
+
 
 # Created(In):
 2022
